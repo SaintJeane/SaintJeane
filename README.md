@@ -8,7 +8,7 @@
 - 👯 I’m looking to collaborate on open-source projects related to machine learning and web development
 - 💬 Ask me about machine learning algorithms, circuit design, or anything tech-related!
 - 📫 How to reach me: peterjaimbo23@gmail.com
-- ⚡ Fun fact: I love gaming, movies, and music in my free time
+- ⚡ Fun fact: I love gaming, watching movies, and listening to music in my free time
 
 ### 🛠️ Languages and Tools:
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=c%2B%2B)
