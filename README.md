@@ -1,3 +1,4 @@
+Ola!👋
 <!--[Header](https://your-banner-image-url.com)-->
 
 <!---### Hi there 👋, I'm Peter Jaimbo.
@@ -43,8 +44,9 @@
 ### 📫 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/peterjaimbo)
 <!--[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter)](https://twitter.com/yourusername)-->
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail)](mailto:peterjaimbo97@gmail.com)
+<!--[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail)](mailto:peterjaimbo97@gmail.com)-->
 
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail)](mailto:jaimbopeter1@gmail.com)
 
 
 
