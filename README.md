@@ -1,10 +1,10 @@
 <!--[Header](https://your-banner-image-url.com)-->
 
-### Hi there 👋, I'm Peter Jaimbo.
+<!---### Hi there 👋, I'm Peter Jaimbo.
 #### Electrical and Electronics Engineer with a Passion for Machine Learning and Web Development
 
 <!--- 🔭 I’m currently working on [Project Name](https://github.com/yourusername/projectname) --->
-- 🌱 I’m currently learning advanced machine learning techniques and full-stack web development
+<!-- 🌱 I’m currently learning advanced machine learning techniques and full-stack web development
 - 👯 I’m looking to collaborate on open-source projects related to machine learning and web development
 - 💬 Ask me about machine learning algorithms, circuit design, or anything tech-related!
 - 📫 How to reach me: peterjaimbo23@gmail.com
@@ -34,12 +34,12 @@
 - [Another Project](https://github.com/yourusername/anotherproject) - Brief description of the project
 - [Machine Learning Project](https://github.com/yourusername/mlproject) - Brief description of the project--->
 
-### 🎮 Hobbies and Interests:
+<!--### 🎮 Hobbies and Interests:
 - Gaming 🎮
 - Watching Movies 🍿
 - Listening to Music 🎵
 - Drawing 🎨
-
+--->
 ### 📫 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/peterjaimbo)
 <!--[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter)](https://twitter.com/yourusername)-->
